@@ -1,0 +1,63 @@
+small{
+	font-size:0.9em!important;
+	line-height:1.3em!important;
+	text-align:justify!important;
+	display:block!important;
+	}
+
+/* Cookies Module -------------------------*/
+
+.a3p-cookie-banner-wrap {
+	position:fixed;
+	z-index:9999;
+	right:0;
+	left:0;
+	bottom:0;
+	display:block;
+	padding:0;
+	margin:0;
+	color:#fff;
+	background:#000;
+	background:rgba(0,0,0,0.7);
+	border:none;
+	text-shadow:none;
+	-webkit-border-radius:0;
+	-moz-border-radius:0;
+	border-radius:0;
+}
+			
+.a3p-cookie-banner-wrap div { margin:10px!important; text-align:center!important; }
+
+.a3p-cookie-banner-wrap .cookies-close {
+	outline:none!important;
+	border:none!important;
+	color:#fff!important;	
+	background:#000!important;
+	margin:0 20px!important;
+	padding:4px 10px!important;	
+	cursor:pointer!important;
+	float:none!important;
+	display:inline-block!important;
+	font-weight:normal!important;
+	font-size:1em!important;
+}
+
+.a3p-cookie-banner-wrap .cookies-close:hover {	
+	background:#222!important;
+}
+
+.a3p-cookie-banner-wrap a{color:#fff!important;text-decoration:underline!important;}
+
+/* News Module ----------------------------*/
+
+a.download_source{
+   background:#333;
+   color:#eee!important;
+   padding:6px 10px;
+   display:inline-block;
+   margin:20px 0;
+}
+a.download_source:hover{
+   background:#000;
+   color:#fff;  
+}

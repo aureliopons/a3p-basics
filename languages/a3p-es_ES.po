@@ -1,0 +1,1146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ainia\n"
+"POT-Creation-Date: 2016-01-24 12:56+0100\n"
+"PO-Revision-Date: 2016-01-24 12:57+0100\n"
+"Last-Translator: Aurelio Pons <hosting@a3p.es>\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../cookies.php:39
+msgid ""
+"We use own and third party cookies to provide a better experience and "
+"service, according to your browsing habits. If you continue browsing, we "
+"consider that you accept their use."
+msgstr ""
+"Utilizamos cookies propias y de terceros para ofrecerte una mejor "
+"experiencia y servicio, de acuerdo a tus hábitos de navegación. Si continúas "
+"navegando, consideramos que aceptas su uso."
+
+#: ../cookies.php:40
+msgid "Accept"
+msgstr "Acepto"
+
+#: ../cookies.php:45
+msgid "More Information"
+msgstr "Más Información"
+
+#: ../include/required_plugins.php:52
+msgid "This system requires you to install"
+msgstr "El sistema requiere instalar el plugin"
+
+#: ../include/required_plugins.php:70
+msgid "It is recommended you to install"
+msgstr "Es recomendable instalar el plugin"
+
+#: ../index.php:44 ../news.php:182
+msgid "Choose or upload a file"
+msgstr "Seleccione o suba un fichero"
+
+#: ../index.php:45
+msgid "Use this file"
+msgstr "Usar este fichero"
+
+#: ../maintenance.php:39 ../panel.php:59
+msgid "E-mail"
+msgstr "E-mail"
+
+#: ../maintenance.php:41 ../panel.php:63
+msgid "Phone"
+msgstr "Teléfono"
+
+#: ../news.php:13 ../news.php:15 ../news.php:90 ../news.php:166 ../news.php:226
+#: ../news.php:229
+msgid "Source"
+msgstr "Fuente"
+
+#: ../news.php:14
+msgid "Sources"
+msgstr "Fuentes"
+
+#: ../news.php:16
+msgid "Search by Source"
+msgstr "Buscar por Fuente"
+
+#: ../news.php:17
+msgid "Popular Sources"
+msgstr "Fuentes más usadas"
+
+#: ../news.php:18
+msgid "All Sources"
+msgstr "Todas las Fuentes"
+
+#: ../news.php:19
+msgid "Edit Source"
+msgstr "Editar Fuente"
+
+#: ../news.php:20
+msgid "Update Source"
+msgstr "Actualizar Fuente"
+
+#: ../news.php:21
+msgid "Add Source"
+msgstr "Añadir Fuente"
+
+#: ../news.php:22
+msgid "New Source Name"
+msgstr "Nuevo nombre de Fuente"
+
+#: ../news.php:23
+msgid "Separate sources with commas"
+msgstr "Separar fuentes con comas"
+
+#: ../news.php:24
+msgid "Add or remove sources"
+msgstr "Añadir o borrar fuentes"
+
+#: ../news.php:25
+msgid "Choose from most used source"
+msgstr "Escoger entre las fuentes más usadas"
+
+#: ../news.php:49 ../news.php:66
+msgid "URL"
+msgstr "URL"
+
+#: ../news.php:70 ../news.php:177
+msgid "View"
+msgstr "Ver"
+
+#: ../news.php:91
+msgid "Attachment"
+msgstr "Adjunto"
+
+#: ../news.php:94
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: ../news.php:168
+msgid "- Select Source -"
+msgstr "- Seleccionar Fuente -"
+
+#: ../news.php:175
+msgid "Original Article URL"
+msgstr "URL del artículo original"
+
+#: ../news.php:180
+msgid "Attachment Upload"
+msgstr "Subir Adjunto"
+
+#: ../news.php:183
+msgid "Download"
+msgstr "Descarga"
+
+#: ../news.php:240
+msgid "Download Source"
+msgstr "Descargar Fuente"
+
+#: ../news.php:261
+msgid "Downloads"
+msgstr "Descargas"
+
+#: ../panel.php:11
+msgid "A3P Basics"
+msgstr "A3P Base"
+
+#: ../panel.php:12 ../panel.php:13
+msgid "A3P Configuration Basics"
+msgstr "Configuración de A3P Base"
+
+#: ../panel.php:20
+msgid "Services to activate"
+msgstr "Activar Módulos"
+
+#: ../panel.php:22
+msgid "Privacy Policy & Cookies Law Info"
+msgstr "Política de Privacidad y Ley de Cookies"
+
+#: ../panel.php:23
+msgid "Add Source Taxonomy to Posts"
+msgstr "Añadir taxonomía FUENTE a los posts"
+
+#: ../panel.php:24
+msgid "Allow editor profile to manage users"
+msgstr "Permitir a editores adminitrar usuarios"
+
+#: ../panel.php:25
+msgid "Do A3P branding at dashboard"
+msgstr "Activar el branding personalizado en el dashboard"
+
+#: ../panel.php:26
+msgid "Put website in maintenance mode"
+msgstr "Poner el sitio web en mantenimiento"
+
+#: ../panel.php:38
+msgid "Legal Data"
+msgstr "Datos Legales"
+
+#: ../panel.php:42
+msgid "Legal Page"
+msgstr "Página del aviso legal"
+
+#: ../panel.php:47
+msgid "Company"
+msgstr "Empresa"
+
+#: ../panel.php:51
+msgid "Company Alias"
+msgstr "Alias de la empresa"
+
+#: ../panel.php:55
+msgid "CIF/NIF"
+msgstr "CIF/NIF"
+
+#: ../panel.php:67
+msgid "Address"
+msgstr "Dirección"
+
+#: ../panel.php:71
+msgid "Reg.Books"
+msgstr "Registro mercantil"
+
+#: ../panel.php:85
+msgid "Dashboard Footer Text"
+msgstr "Pie de página en el panel de administración"
+
+#: ../panel.php:89
+msgid "Logo URL"
+msgstr "URL del logotipo"
+
+#: ../panel.php:90
+msgid "Recommended size of 300x100 pixels"
+msgstr "Tamaño recomendado de 300x100 pixels."
+
+#~ msgid "Activate"
+#~ msgstr "Activar"
+
+#, fuzzy
+#~ msgid "Color"
+#~ msgstr "en la categoría  "
+
+#~ msgid "Source:"
+#~ msgstr "Fuente:"
+
+#~ msgid "This post was successfully sent by email to"
+#~ msgstr "Esta entrada fue enviada correctamente por e-mail a"
+
+#~ msgid "Error. E-mail has not been sent."
+#~ msgstr "Error. El email no se pudo enviar."
+
+#~ msgid "Error. Could not add post to project."
+#~ msgstr "Error. No se pudo añadir la entrada al proyecto."
+
+#~ msgid "This post was added to the project"
+#~ msgstr "La entrada fue añadida al proyecto."
+
+#~ msgid "The post was removed from project"
+#~ msgstr "La entrada fue eliminada del proyecto."
+
+#~ msgid "Error. Could not classify post."
+#~ msgstr "Error. No se pudo clasificar la entrada."
+
+#~ msgid "This post was classified correctly in category"
+#~ msgstr "La entrada fue clasificada correctamente en la categoría"
+
+#~ msgid "Error. Could not add tag."
+#~ msgstr "Error. No se pudo añadir la etiqueta."
+
+#~ msgid "The post was tagged correctly."
+#~ msgstr "La entrada fue etiquetada."
+
+#~ msgid "Post was added to favourites list."
+#~ msgstr "La entrada se añadió a la lista de favoritos."
+
+#~ msgid "Post was removed from favourites list."
+#~ msgstr "La entrada se eliminó de la lista de favoritos."
+
+#~ msgid "Is Favourite!"
+#~ msgstr "¡ Favorito !"
+
+#~ msgid "Remove"
+#~ msgstr "Eliminar"
+
+#~ msgid "Not Favourite"
+#~ msgstr "No es favorito"
+
+#~ msgid "Add"
+#~ msgstr "Añadir"
+
+#~ msgid "Error. Action was not done."
+#~ msgstr "Error. La acción no pudo realizarse."
+
+#~ msgid "Error. Recommendation has not been sent."
+#~ msgstr "Error. La recomendación no se pudo enviar."
+
+#~ msgid "A recommendation email has been sent to"
+#~ msgstr "Se ha enviado una recomendación a"
+
+#~ msgid " recommends a link to you."
+#~ msgstr " te recomienda una entrada."
+
+#~ msgid ""
+#~ "This is an automatic email. %s recomends you this link: <a href='%s'>%s</"
+#~ "a>"
+#~ msgstr ""
+#~ "Este es un e-mail automático.  %s te recomienda este enlace: <a href='%s'>"
+#~ "%s</a>"
+
+#~ msgid "Tagged as: "
+#~ msgstr "Etiquetado como:"
+
+#~ msgid "Categorized in&#58; "
+#~ msgstr "En categorías&#58; "
+
+#~ msgid "Add Category"
+#~ msgstr "Añadir Categoría"
+
+#~ msgid "Add Tag"
+#~ msgstr "Añadir Etiqueta"
+
+#~ msgid "Scope"
+#~ msgstr "Ámbito"
+
+#~ msgid "In Project: "
+#~ msgstr "En Proyecto:"
+
+#~ msgid "Add to Project"
+#~ msgstr "Añadir a Proyecto"
+
+#~ msgid "Project: "
+#~ msgstr "Proyecto:"
+
+#~ msgid "-- none --"
+#~ msgstr "-- ninguno --"
+
+#~ msgid "Select Project"
+#~ msgstr "Seleccionar Proyecto"
+
+#~ msgid "Source&#58;"
+#~ msgstr "Fuente&#58;"
+
+#~ msgid "Read Original&raquo;"
+#~ msgstr "Leer original&raquo;"
+
+#~ msgid "%d times readed"
+#~ msgstr "%d veces leido"
+
+#~ msgid "Edit"
+#~ msgstr "Editar"
+
+#~ msgid "Is Favorite!"
+#~ msgstr "Es Favorito!"
+
+#~ msgid "Not Favorite"
+#~ msgstr "No es Favorito"
+
+#~ msgid "Recommend to:"
+#~ msgstr "Recomendar a:"
+
+#~ msgid "Send"
+#~ msgstr "Enviar"
+
+#~ msgid "Send to:"
+#~ msgstr "Enviar a:"
+
+#~ msgid "Send E-Mail"
+#~ msgstr "Enviar E-mail"
+
+#~ msgid "AINIA iWatch Newsletter"
+#~ msgstr "Boletín AINIA iWatch"
+
+#~ msgid "%d posts imported from crawler"
+#~ msgstr "%d entradas importadas del rastreador"
+
+#~ msgid ""
+#~ "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+#~ "%2$s</span>"
+#~ msgstr ""
+#~ "<span class=\"posted-on\">Publicado el %1$s</span><span class=\"byline\"> "
+#~ "por %2$s</span>"
+
+#~ msgid "View all posts by %s"
+#~ msgstr "Ver todas las entradas de %s"
+
+#~ msgid "Read More &raquo;"
+#~ msgstr "Leer Más &raquo;"
+
+#~ msgid "<a href=\"%s\""
+#~ msgstr "<a href=\"%s\""
+
+#~ msgid "All <span class=\"count\">(%s)</span>"
+#~ msgstr "All <span class=\"count\">(%s)</span>"
+
+#~ msgid "Detached <span class=\"count\">(%s)</span>"
+#~ msgstr "Detached <span class=\"count\">(%s)</span>"
+
+#~ msgid "Hook"
+#~ msgstr "Hook"
+
+#~ msgid "Action ID"
+#~ msgstr "ID Acción"
+
+#~ msgid ""
+#~ "Please note that you have to indicate an action name, for example "
+#~ "\"my_action\" and create a WordPress hook <pre>add_action(\"my_action\","
+#~ "\"my_funcion\"); function my_function(){...}</pre>"
+#~ msgstr ""
+#~ "Please note that you have to indicate an action name, for example "
+#~ "\"my_action\" and create a WordPress hook <pre>add_action(\"my_action\","
+#~ "\"my_funcion\"); function my_function(){...}</pre>"
+
+#~ msgid "Embedded WP Excerpt+Content"
+#~ msgstr "Embedded WP Excerpt+Content"
+
+#~ msgid "Div identifiers"
+#~ msgstr "Div identifiers"
+
+#~ msgid "Please white here WP elements as #postdivrich you want move here."
+#~ msgstr "Please white here WP elements as #postdivrich you want move here."
+
+#~ msgid "Embedded WP Taxonomy Fields"
+#~ msgstr "Embedded WP Taxonomy Fields"
+
+#~ msgid "iWatch Settings"
+#~ msgstr "Configuración iWatch"
+
+#~ msgid "You do not have sufficient permissions to access this page."
+#~ msgstr "No tienes suficientes permisos para acceder a esta página."
+
+#~ msgid "Actual server time is"
+#~ msgstr "La hora actual del servidor es"
+
+#~ msgid "Next scheduled import and newsletter action is: "
+#~ msgstr ""
+#~ "La proxima acción para enviar el newsletter e importar del rastreador "
+#~ "está programada para las "
+
+#~ msgid "Crawler"
+#~ msgstr "Rastreador"
+
+#~ msgid "RSS Feed URL"
+#~ msgstr "URL del RSS"
+
+#~ msgid "Must be a XML RSS file with AINIA namespace for some elements."
+#~ msgstr ""
+#~ "Debe ser un fichero XML de tipo RSS con el espacio de nombres de Ainia "
+#~ "para algunos elementos."
+
+#~ msgid "Updated Categories URL"
+#~ msgstr "URL para Categorías"
+
+#~ msgid "To inform when user updates some category, calling an URL like that:"
+#~ msgstr ""
+#~ "Para informar cuando un usuario actualiza una categoría, llamando una URL "
+#~ "parecida a:"
+
+#~ msgid "Max. imported posts"
+#~ msgstr "Número máximo de entradas a importar"
+
+#~ msgid "posts"
+#~ msgstr "entradas"
+
+#~ msgid "0 for no limits"
+#~ msgstr "0 para no limitar."
+
+#~ msgid "Import posts with status"
+#~ msgstr "Importar entradas con estado..."
+
+#~ msgid "draft"
+#~ msgstr "borrador"
+
+#~ msgid "publish"
+#~ msgstr "publicadas"
+
+#~ msgid "Newsletter / Not Readed Listing"
+#~ msgstr "Boletín / Listado de No Leidos"
+
+#~ msgid "Sender email"
+#~ msgstr "E-mail con que se envía"
+
+#~ msgid "Maximum age of posts"
+#~ msgstr "Máxima antiguedad de las entradas"
+
+#~ msgid "days"
+#~ msgstr "días"
+
+#~ msgid "Maximum number of posts"
+#~ msgstr "Máximo número de entradas"
+
+#~ msgid "Otros"
+#~ msgstr "Otros"
+
+#~ msgid "Administrator Colors"
+#~ msgstr "Colores del Panel"
+
+#~ msgid "Default"
+#~ msgstr "Por Defecto"
+
+#~ msgid "Blue"
+#~ msgstr "Azul"
+
+#~ msgid "Teal"
+#~ msgstr "Verdoso"
+
+#~ msgid "Brown"
+#~ msgstr "Marrón"
+
+#~ msgid "Magenta"
+#~ msgstr "Morado"
+
+#~ msgid "Gris"
+#~ msgstr "Gris Oscuro"
+
+#~ msgid "Save Options"
+#~ msgstr "Guardar Configuración"
+
+#~ msgid "Send Newsletter Now"
+#~ msgstr "Enviar ahora el boletín"
+
+#~ msgid "Import RSS Now"
+#~ msgstr "Importar ahora del rastreador"
+
+#~ msgid "Options saved"
+#~ msgstr "Opciones Guardadas"
+
+#~ msgid "%d mails sent by newsletter"
+#~ msgstr "%d emails enviados con el boletín"
+
+#~ msgid "No mails sent by newsletter"
+#~ msgstr "El sistema del boletín no ha enviado ningún email."
+
+#~ msgid "Nothing imported from crawler"
+#~ msgstr "No se importó nada del rastreador"
+
+#~ msgid "Interest"
+#~ msgstr "Interés"
+
+#~ msgid "Add New Project"
+#~ msgstr "Añadir Nuevo Proyecto"
+
+#~ msgid "New Project"
+#~ msgstr "Nuevo Proyecto"
+
+#~ msgid "Edit Project"
+#~ msgstr "Editar Proyecto"
+
+#~ msgid "View Project"
+#~ msgstr "Ver Proyecto"
+
+#~ msgid "All Projects"
+#~ msgstr "Todos los proyectos"
+
+#~ msgid "Search Projects"
+#~ msgstr "Buscar Proyectos"
+
+#~ msgid "Parent Projects:"
+#~ msgstr "Proyectos padre:"
+
+#~ msgid "Risc"
+#~ msgstr "Riesgo"
+
+#~ msgid "Entries"
+#~ msgstr "Entradas"
+
+#~ msgid "Drafts"
+#~ msgstr "Borradores"
+
+#~ msgid "Published"
+#~ msgstr "Publicadas"
+
+#~ msgid "Article Interest"
+#~ msgstr "Interés de la entrada"
+
+#~ msgid "Scopes"
+#~ msgstr "Ámbitos"
+
+#~ msgid "Search by Scope"
+#~ msgstr "Buscar por Ámbito"
+
+#~ msgid "Popular Scopes"
+#~ msgstr "Ámbitos más usados"
+
+#~ msgid "All Scopes"
+#~ msgstr "Todos los Ámbitos"
+
+#~ msgid "Edit Scope"
+#~ msgstr "Editar Ámbito"
+
+#~ msgid "Update Scope"
+#~ msgstr "Actualizar Ámbito"
+
+#~ msgid "Add Scope"
+#~ msgstr "Añadir Ámbito"
+
+#~ msgid "New Scope Name"
+#~ msgstr "Nuevo nombre de Ámbito"
+
+#~ msgid "Separate Scopes with commas"
+#~ msgstr "Separar Ámbitos con comas"
+
+#~ msgid "Add or remove Scopes"
+#~ msgstr "Añadir o borrar Ámbito"
+
+#~ msgid "Choose from most used Scope"
+#~ msgstr "Escoger entre los Ámbitos más usados"
+
+#~ msgid "Search"
+#~ msgstr "Buscar "
+
+#~ msgid "You has been assigned these categories:"
+#~ msgstr "Tiene asignadas las siguientes categorías:"
+
+#~ msgid "Tracking"
+#~ msgstr "Seguimiento"
+
+#~ msgid "WP Extended Users"
+#~ msgstr "Usuarios Extendidos de WP"
+
+#~ msgid "Settings"
+#~ msgstr "Configuración"
+
+#~ msgid "<strong>Ok</strong> Element was saved"
+#~ msgstr "<strong>Ok</strong> El registro se guardó correctamente"
+
+#~ msgid "<strong>Error</strong> Element was not saved"
+#~ msgstr "<strong>Error</strong> El registro no se pudo guardar."
+
+#~ msgid "Fast View"
+#~ msgstr "Vista Rápida"
+
+#~ msgid "Link"
+#~ msgstr "Enlace"
+
+#~ msgid "E-mail from"
+#~ msgstr "E-mail de "
+
+#~ msgid "E-mail to"
+#~ msgstr "E-mail a"
+
+#~ msgid "Note"
+#~ msgstr "Nota"
+
+#~ msgid "Meeting"
+#~ msgstr "Reunión"
+
+#~ msgid "Log-in"
+#~ msgstr "Acceso"
+
+#~ msgid "Form"
+#~ msgstr "Formulario"
+
+#~ msgid "Comment"
+#~ msgstr "Comentario"
+
+#~ msgid "Post"
+#~ msgstr "Entrada"
+
+#~ msgid "User"
+#~ msgstr "Usuario"
+
+#~ msgid "Product"
+#~ msgstr "Producto"
+
+#~ msgid "Browse"
+#~ msgstr "Navegar"
+
+#~ msgid "Recommend"
+#~ msgstr "Recomendar"
+
+#~ msgid "Receive Recommendation"
+#~ msgstr "Recibir Recomendación"
+
+#~ msgid "Categorize"
+#~ msgstr "Clasificar"
+
+#~ msgid "Favorite"
+#~ msgstr "Favorito"
+
+#~ msgid "RSS Import"
+#~ msgstr "Importar RSS"
+
+#~ msgid "Newsletter"
+#~ msgstr "Boletín"
+
+#~ msgid "Unknown"
+#~ msgstr "Desconocido"
+
+#~ msgid "Comment to"
+#~ msgstr "Comentario a"
+
+#~ msgid "You have recommended <a target=\"_blank\" href=\"%s\">%s</a> to %s"
+#~ msgstr ""
+#~ "El usuario ha recomendado <a target=\"_blank\" href=\"%s\">%s</a> a %s"
+
+#~ msgid "%s has recommended <a target=\"_blank\" href=\"%s\">%s</a> to you"
+#~ msgstr ""
+#~ "%s ha recomendado <a target=\"_blank\" href=\"%s\">%s</a> al usuario"
+
+#~ msgid "You have categorized <a target=\"_blank\" href=\"%s\">%s</a> in %s"
+#~ msgstr ""
+#~ "El usuario ha clasificado <a target=\"_blank\" href=\"%s\">%s</a> en %s"
+
+#~ msgid ""
+#~ "You have selected <a target=\"_blank\" href=\"%s\">%s</a> as favorite"
+#~ msgstr ""
+#~ "El usuario ha marcado <a target=\"_blank\" href=\"%s\">%s</a> como "
+#~ "favorito"
+
+#~ msgid "Sent %s posts in the newsletter"
+#~ msgstr "Enviar %s noticias en el newsletter"
+
+#~ msgid "From"
+#~ msgstr "De"
+
+#~ msgid "Subject"
+#~ msgstr "Asunto"
+
+#~ msgid "Date"
+#~ msgstr "Fecha"
+
+#~ msgid "Body"
+#~ msgstr "Cuerpo"
+
+#~ msgid "To"
+#~ msgstr "A"
+
+#~ msgid "Type"
+#~ msgstr "Tipo"
+
+#~ msgid "Content"
+#~ msgstr "Contenido"
+
+#~ msgid "Count"
+#~ msgstr "Cuenta"
+
+#~ msgid "All"
+#~ msgstr "Todo"
+
+#~ msgid "Ok"
+#~ msgstr "Ok"
+
+#~ msgid "Items deleted"
+#~ msgstr "Elementos borrados"
+
+#~ msgid "Error"
+#~ msgstr "Error"
+
+#~ msgid "Add Note"
+#~ msgstr "Añadir Nota"
+
+#~ msgid "Add Meeting"
+#~ msgstr "Añadir Reunión"
+
+#~ msgid "Add Phone Call"
+#~ msgstr "Añadir Llamada"
+
+#~ msgid "Close"
+#~ msgstr "Cerrar"
+
+#~ msgid "Save"
+#~ msgstr "Guardar"
+
+#~ msgid "Cancel"
+#~ msgstr "Cancelar"
+
+#~ msgid "Readed"
+#~ msgstr "Leidos"
+
+#~ msgid "Logins"
+#~ msgstr "Accesos"
+
+#~ msgid "Comments"
+#~ msgstr "Comentarios"
+
+#~ msgid "Recommendations"
+#~ msgstr "Recomendaciones"
+
+#~ msgid "This feed is private"
+#~ msgstr "Este RSS es privado"
+
+#~ msgid "Biographical Info"
+#~ msgstr "Información Biográfica"
+
+#~ msgid ""
+#~ "Share a little biographical information to fill out your profile. This "
+#~ "may be shown publicly."
+#~ msgstr ""
+#~ "Comparta un poco de información en su perfil, se mostrará públicamente."
+
+#~ msgid "Ainia Profile Information"
+#~ msgstr "Información Ampliada del Perfil"
+
+#~ msgid "Day interval for newsletter"
+#~ msgstr "Intervalo para el newsletter"
+
+#~ msgid "Don't send newsletter"
+#~ msgstr "No enviar "
+
+#~ msgid "Every Day"
+#~ msgstr "Cada día"
+
+#~ msgid "Three Days"
+#~ msgstr "Cada tres días"
+
+#~ msgid "Once a Week"
+#~ msgstr "Una vez a la semana"
+
+#~ msgid "Every Fifteen Days"
+#~ msgstr "Cada quince días"
+
+#~ msgid "Once a Month"
+#~ msgstr "Una vez al mes"
+
+#~ msgid "Last email for this user was sent on"
+#~ msgstr "El último email fue enviado a este usuario el"
+
+#~ msgid "This user has not yet received the newsletter"
+#~ msgstr "Nunca se ha enviado el newsletter a este usuario"
+
+#~ msgid "Administration Board"
+#~ msgstr "Panel de Administración"
+
+#~ msgid "Change Password"
+#~ msgstr "Cambiar Clave"
+
+#~ msgid "Disconnect"
+#~ msgstr "Desconectar"
+
+#, fuzzy
+#~ msgid "Add New"
+#~ msgstr "Añadir Nota"
+
+#, fuzzy
+#~ msgid "Edit Field"
+#~ msgstr "Editar Ámbito"
+
+#, fuzzy
+#~ msgid "Search Fields"
+#~ msgstr "Buscar "
+
+#, fuzzy
+#~ msgid "or"
+#~ msgstr "Formulario"
+
+#, fuzzy
+#~ msgid "Options"
+#~ msgstr "Guardar Configuración"
+
+#, fuzzy
+#~ msgid "No"
+#~ msgstr "Nota"
+
+#, fuzzy
+#~ msgid "Publish"
+#~ msgstr "Publicadas"
+
+#, fuzzy
+#~ msgid "Draft"
+#~ msgstr "Borradores"
+
+#, fuzzy
+#~ msgid "Default Template"
+#~ msgstr "Por Defecto"
+
+#, fuzzy
+#~ msgid "Resources"
+#~ msgstr "Fuentes"
+
+#, fuzzy
+#~ msgid "Updates"
+#~ msgstr "Actualizar Ámbito"
+
+#, fuzzy
+#~ msgid "<b>Error</b>. Could not load add-ons list"
+#~ msgstr "Error. No se pudo añadir la etiqueta."
+
+#, fuzzy
+#~ msgid "Import / Export"
+#~ msgstr "Importar ahora del rastreador"
+
+#, fuzzy
+#~ msgid "Edit field"
+#~ msgstr "Editar Ámbito"
+
+#, fuzzy
+#~ msgid "Close Field"
+#~ msgstr "Cerrar"
+
+#, fuzzy
+#~ msgid "Post Type"
+#~ msgstr "Entrada"
+
+#, fuzzy
+#~ msgid "Post Category"
+#~ msgstr "Añadir Categoría"
+
+#, fuzzy
+#~ msgid "Page Type"
+#~ msgstr "Tipo"
+
+#, fuzzy
+#~ msgid "Page Parent"
+#~ msgstr "Padre de la Fuente"
+
+#, fuzzy
+#~ msgid "User Form"
+#~ msgstr "Formulario"
+
+#, fuzzy
+#~ msgid "User Role"
+#~ msgstr "Usuario"
+
+#, fuzzy
+#~ msgid "Forms"
+#~ msgstr "Formulario"
+
+#, fuzzy
+#~ msgid "Content Editor"
+#~ msgstr "Contenido"
+
+#, fuzzy
+#~ msgid "Discussion"
+#~ msgstr "Desconectar"
+
+#, fuzzy
+#~ msgid "Format"
+#~ msgstr "Formulario"
+
+#~ msgid "Categories"
+#~ msgstr "Categorías"
+
+#, fuzzy
+#~ msgid "Download & Install"
+#~ msgstr "Descargas"
+
+#, fuzzy
+#~ msgid "Import"
+#~ msgstr "Importar RSS"
+
+#, fuzzy
+#~ msgid "New Forms"
+#~ msgstr "Formulario"
+
+#, fuzzy
+#~ msgid "New Settings"
+#~ msgstr "Configuración"
+
+#, fuzzy
+#~ msgid "Page Link"
+#~ msgstr "Enlace"
+
+#, fuzzy
+#~ msgid "Better Options Pages"
+#~ msgstr "Opciones Guardadas"
+
+#, fuzzy
+#~ msgid "Update"
+#~ msgstr "Actualizar Ámbito"
+
+#, fuzzy
+#~ msgid "Default Value"
+#~ msgstr "Por Defecto"
+
+#, fuzzy
+#~ msgid "Edit File"
+#~ msgstr "Editar Ámbito"
+
+#, fuzzy
+#~ msgid "Update File"
+#~ msgstr "Actualizar Ámbito"
+
+#, fuzzy
+#~ msgid "Add File"
+#~ msgstr "Añadir Nota"
+
+#, fuzzy
+#~ msgid "File URL"
+#~ msgstr "URL del RSS"
+
+#, fuzzy
+#~ msgid "Clear location"
+#~ msgstr "Clasificación"
+
+#, fuzzy
+#~ msgid "Edit Image"
+#~ msgstr "Editar Ámbito"
+
+#, fuzzy
+#~ msgid "Update Image"
+#~ msgstr "Actualizar Ámbito"
+
+#, fuzzy
+#~ msgid "Add Image"
+#~ msgstr "Añadir Etiqueta"
+
+#, fuzzy
+#~ msgid "Maximum Value"
+#~ msgstr "Máxima antiguedad de las entradas"
+
+#, fuzzy
+#~ msgid "All post types"
+#~ msgstr "Todos los Ámbitos"
+
+#, fuzzy
+#~ msgid "Password"
+#~ msgstr "Cambiar Clave"
+
+#, fuzzy
+#~ msgid "Post Object"
+#~ msgstr "Proyecto"
+
+#, fuzzy
+#~ msgid "Post ID"
+#~ msgstr "Entrada"
+
+#, fuzzy
+#~ msgid "Save Other"
+#~ msgstr "Guardar Configuración"
+
+#, fuzzy
+#~ msgid "No matches found"
+#~ msgstr "Fuente no encontrada"
+
+#, fuzzy
+#~ msgid "Search..."
+#~ msgstr "Buscar "
+
+#, fuzzy
+#~ msgid "Elements"
+#~ msgstr "Comentarios"
+
+#, fuzzy
+#~ msgid "Maximum posts"
+#~ msgstr "Máxima antiguedad de las entradas"
+
+#, fuzzy
+#~ msgid "Leave blank for no limit"
+#~ msgstr "0 para no limitar."
+
+#, fuzzy
+#~ msgid "All user roles"
+#~ msgstr "Todas las Fuentes"
+
+#, fuzzy
+#~ msgid "Options Page"
+#~ msgstr "Opciones Guardadas"
+
+#, fuzzy
+#~ msgid "Options Updated"
+#~ msgstr "Opciones Guardadas"
+
+#, fuzzy
+#~ msgid "<b>Error</b>. Could not connect to update server"
+#~ msgstr "Error. No se pudo añadir la entrada al proyecto."
+
+#, fuzzy
+#~ msgid "Update Plugin"
+#~ msgstr "Actualizar Fuente"
+
+#, fuzzy
+#~ msgid "Flexible Content"
+#~ msgstr "Contenido"
+
+#, fuzzy
+#~ msgid "Add Row"
+#~ msgstr "Añadir Nota"
+
+#, fuzzy
+#~ msgid "Add layout"
+#~ msgstr "Añadir Nota"
+
+#, fuzzy
+#~ msgid "Remove layout"
+#~ msgstr "Eliminar"
+
+#, fuzzy
+#~ msgid "Add New Layout"
+#~ msgstr "Añadir Nota"
+
+#, fuzzy
+#~ msgid "Min"
+#~ msgstr "Reunión"
+
+#, fuzzy
+#~ msgid "Maximum Layouts"
+#~ msgstr "Máxima antiguedad de las entradas"
+
+#, fuzzy
+#~ msgid "Add to gallery"
+#~ msgstr "Añadir Llamada"
+
+#, fuzzy
+#~ msgid "Add row"
+#~ msgstr "Añadir Proyecto"
+
+#, fuzzy
+#~ msgid "Remove row"
+#~ msgstr "Eliminar"
+
+#, fuzzy
+#~ msgid "Maximum Rows"
+#~ msgstr "Máxima antiguedad de las entradas"
+
+#~ msgid "Edit Post"
+#~ msgstr "Editar Entrada"
+
+#~ msgid "Projects"
+#~ msgstr "Proyectos"
+
+#~ msgid "Update Project"
+#~ msgstr "Actualizar Proyecto"
+
+#~ msgid "Separate Projects with commas"
+#~ msgstr "Separar proyectos con comas"
+
+#~ msgid "Add or remove Projects"
+#~ msgstr "Añadir o borrar proyectos"
+
+#~ msgid "Choose from most used Project"
+#~ msgstr "Escoger entre los proyectos más usados"
+
+#~ msgid "Translate"
+#~ msgstr "Traducir"
+
+#, fuzzy
+#~ msgid "RSS URL Source"
+#~ msgstr "Buscar por Fuente"
+
+#~ msgid "Import RSS data when save this form"
+#~ msgstr "Importar RSS cuando se guarde este formulario"
+
+#~ msgid "Send newsletter when save this form"
+#~ msgstr "Enviar el newsletter a todos cuando se guarde este formulario"
+
+#~ msgid "View Source"
+#~ msgstr "Ver Fuente"
+
+#~ msgid "View Item Source"
+#~ msgstr "Ver Fuente"
+
+#~ msgid "No sources at trash"
+#~ msgstr "No hay fuentes en la papelera"
+
+#~ msgid "Error. E-mail was not sent."
+#~ msgstr "Error. El e-mail no se pudo enviar."
+
+#~ msgid "Save as Favorite"
+#~ msgstr "Agregar a Favoritos"
+
+#~ msgid "Favorites"
+#~ msgstr "Favoritos"
+
+#~ msgid "Post selected by user as favorites"
+#~ msgstr "Entrada seleccionada como favorita por el usuario"
+
+#~ msgid "Recommended"
+#~ msgstr "Recomendada"
+
+#~ msgid "Posts send by other users as a recommendation"
+#~ msgstr "Entradas enviadas por otros usuarios como recomendación"
